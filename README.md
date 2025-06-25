@@ -1245,6 +1245,17 @@ void detectarCurva(long distanciaIzquierda, long distanciaCentro, long distancia
 ```
 
 ---
+## 📄 License
+
+This project is licensed under a customized MIT License.
+
+- ✅ Free to use, modify, and distribute **outside of Panama**, for educational and non-commercial purposes only.
+- ❌ **Not permitted** for use by any teams, individuals, or organizations **based in Panama** or participating in robotics competitions **within Panama**.
+
+> Copyright (c) 2025  
+> Ericka Ceballos, team **TERRENATOR**  
+>  
+> This software is provided "as is", without warranty of any kind.
 
 
 ## References
